@@ -6,7 +6,8 @@ This repository contains:
 - **Research Paper:** A Word document with research details.
 - **Code:** A Google Colab notebook implementing the project.
 #Data set :
-[Traffic Crashes - Chicago Data Portal](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data)
+You can access it directly using this link: [Traffic Crashes Data (JSON)](https://data.cityofchicago.org/resource/85ca-t3if.json)
+
 
 
 **Abstract **
