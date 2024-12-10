@@ -1,4 +1,4 @@
-# Dsci-5260
+**# Dsci-5260**
  chicago Traffic crash 
  # Research Project
 ## Description
@@ -6,12 +6,12 @@ This repository contains:
 - **Research Paper:** A Word document with research details.
 - **Code:** A Google Colab notebook implementing the project.
 
-Abstract 
+**Abstract **
 
 This study takes a closer look at traffic accidents in Chicago, with a special focus on pedestrian and bicycle safety. The goal is to uncover patterns and factors behind these accidents to create more effective safety measures. The majority of crashes, including rear-end collisions, turning accidents, and collisions with parked automobiles, occur in moderate speed zones, particularly those with speed restrictions between 20 and 40 mph. Due to the high volume of vehicles, bikers, and pedestrians in these regions, encounters and accidents occur frequently. Although there are fewer incidents in low-speed zones (such as residential or school neighbourhoods), vulnerable road users, such as cyclists and children, are frequently involved. However, collisions at high-speed zones are more serious but less common. Compared to regions with only stop or yield signs, traffic signals significantly improve road safety by lowering the frequency and intensity of collisions. The study also investigates how weather and time of the week affect collisions. Thursdays have the most collisions, but weekends have fewer collisions but a higher likelihood of serious ones, probably as a result of riskier driving practices like speeding or intoxicated driving. Unexpectedly, weather also affects accidents. The majority of collisions occur at speed limits of 25 to 30 mph, which are typically in cities. This emphasizes the need for improved pedestrian crossing, signs, and traffic calming techniques in these congested regions. 
 Using data visualizations like box plot and heatmaps the study also identifies critical trends, outliers, and correlations. By analyzing these patterns, the research offers practical insights to help reduce crashes, injuries and fatalities while improving traffic flow in Chicago’s busy streets.
 
-RESEARCH OBJECTIVE 
+**RESEARCH OBJECTIVE **
 This research aims to measure the efficiency of presently implemented safety measures and determine the influence of the environment on the occurrence of accidents and the rates at which the accidents occur, as well as the time of day, weather conditions, and road surface characteristics. Traffic accidents are the subject of a broad literature review concerning several aspects of road safety; however, the principal focus of the study is on pedestrian and bicycle safety in Chicago. If the causes of specific types of crashes, road structures, danger zones, and specific crash patterns are analyzed, people can understand the reasons behind the accidents. This approach will allow the successful creation of targeted and effective safety interventions, upgrades, designs, and policies relevant to decreasing transportation incidents in Chicago. In achieving these objectives, this research strives to improve strategies for traffic safety, reduce crashes, injuries, and fatalities, and address traffic system congestion in Chicago's transportation modes. 
 RESEARCH QUESTIONS
 1. What is the relationship between speed limits and crash types?
@@ -19,7 +19,9 @@ RESEARCH QUESTIONS
    b. How does a traffic control device affect the chances of rear-end collisions?
 3. How do crash severity and contributory causes vary by time and day of the week?
 4. Effects of Weather on Motor Vehicle Accidents: How do weather characteristics affect crash rates and severity?
-Conclusion
+
+ **  
+Conclusion**
 This study provided a comprehensive analysis of traffic collisions in Chicago, focusing on understanding the factors contributing to accidents and their severity while evaluating the effectiveness of existing safety measures. The study examined important facets of traffic safety, such as the connection between speed limit and crash types, the function of traffic signals, the effects of time and environment on crash severity, and the crucial role of weather, using a larger dataset from the Chicago police department’s E-crash reporting system. 
 A major finding highlighted in the study is the prevalence of crash zones in moderate speed zones (20mph-40mph), where there are a lot of vehicles, pedestrians, and bicycles interacting with one another. Even though there were fewer collisions at higher speed limits (50mph or more). They frequently led to more dire consequences. Lower speed restrictions in residential and school zones resulted in fewer incidents, but they frequently affected vulnerable groups like children and pedestrians highlighting the need for safety measures in these locations.
 Compared to regions controlled by other traffic control systems, traffic signals dramatically decreased crash rates and accident severity, making them an essential safety component. Rear-end crashes are more frequent but typically less severe in non-signalized zones, according to the study. 
